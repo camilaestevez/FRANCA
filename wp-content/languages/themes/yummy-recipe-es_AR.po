@@ -1,0 +1,248 @@
+# Translation of Themes - Yummy Recipe in Spanish (Argentina)
+# This file is distributed under the same license as the Themes - Yummy Recipe package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-08-12 05:03:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: es_AR\n"
+"Project-Id-Version: Themes - Yummy Recipe\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Yummy Recipe is a perfect theme for creating a professional food blog and recipe website. The theme is mobile-friendly, SEO optimized, Schema friendly, and loads faster to help you rank your recipes higher on search engines. The theme is compatible with the Delicious Recipes plugin to provide top-notch features to easily create and share your recipes. You can easily choose from unlimited colors and 900+ Google fonts to change your website look and feel with a single click. With the Instagram section, you can share your recipe images and grow your followers. It also includes newsletter integration to help you grow your email list and communicate with your readers. Yummy Recipe is translation ready, RTL ready, and WooCommerce compatible. Check demo at https://blossomthemes.com/theme-demo/?theme=yummy-recipe, read the documentation at https://docs.blossomthemes.com/yummy-recipe/, and get support at https://blossomthemes.com/support-ticket/."
+msgstr "Yummy Recipe es un tema perfecto para crear un blog profesional de alimentación y una web de recetas. El tema es compatible con móviles, optimizado para SEO, compatible con Schema y carga más rápido para ayudarte a posicionar tus recetas en los motores de búsqueda. El tema es compatible con el plugin Delicious Recipes para proporcionar características de primera categoría para crear y compartir fácilmente tus recetas. Podés elegir fácilmente entre un número ilimitado de colores y más de 900 fuentes de Google para cambiar el aspecto de tu web con un solo clic. Con la sección Instagram, podés compartir las imágenes de tus recetas y hacer crecer tus seguidores. También incluye la integración de un mailing para ayudarte a hacer crecer tu lista de correo electrónico y a comunicarte con tus lectores. Yummy Recipe está listo para traducción, RTL y es compatible con WooCommerce. Revisá la demostración en https://blossomthemes.com/theme-demo/?theme=yummy-recipe, leé la documentación en https://docs.blossomthemes.com/yummy-recipe/ y obtené soporte en https://blossomthemes.com/support-ticket/."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Yummy Recipe"
+msgstr "Yummy Recipe"
+
+#: functions.php:256
+msgid "Flush Local Fonts Cache"
+msgstr "Vaciar la caché de las fuentes locales"
+
+#: functions.php:242
+msgid "Flush Local Font Files"
+msgstr "Vaciar los archivos de fuentes locales"
+
+#: functions.php:240
+msgid "Click the button to reset the local fonts cache"
+msgstr "Hacé clic en el botón para restablecer la caché de fuentes locales"
+
+#: functions.php:232
+msgid "Preloading Google fonts will speed up your website speed."
+msgstr "La precarga de las fuentes de Google acelerará la velocidad de tu web."
+
+#: functions.php:231
+msgid "Preload Local Fonts"
+msgstr "Precargar las fuentes locales"
+
+#: functions.php:212
+msgid "Enable to load google fonts from your own server instead from google's CDN. This solves privacy concerns with Google's CDN and their sometimes less-than-transparent policies."
+msgstr "Activá la carga de las fuentes de Google desde tu propio servidor en lugar de hacerlo desde la CDN de Google. Esto resuelve los problemas de privacidad con la CDN de Google y sus políticas a veces poco transparentes."
+
+#: functions.php:211
+msgid "Load Google Fonts Locally"
+msgstr "Cargar las fuentes de Google localmente"
+
+#: functions.php:1106
+msgid "Regenerate Thumbnails"
+msgstr "Regenerar miniaturas"
+
+#: functions.php:1101
+msgid "BlossomThemes Social Feed"
+msgstr "Feed social de BlossomThemes"
+
+#: functions.php:1096
+msgid "BlossomThemes Email Newsletter"
+msgstr "BlossomThemes Email Newsletter"
+
+#: functions.php:1091
+msgid "BlossomThemes Toolkit"
+msgstr "BlossomThemes Toolkit"
+
+#: functions.php:1086
+msgid "Delicious Recipes – WordPress Recipe Plugin"
+msgstr "Delicious Recipes – Plugin de recetas de WordPress"
+
+#: functions.php:1064
+msgid "https://wordpress.org/"
+msgstr "https://es-ar.wordpress.org/"
+
+#: functions.php:1064
+msgid " Powered by %s. "
+msgstr "Impulsado por %s"
+
+#: functions.php:1062
+msgid " Yummy Recipe | Developed By "
+msgstr " Yummy Recipe | Desarrollado por "
+
+#: functions.php:914
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:913
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:912
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:886
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: functions.php:619
+msgid "Read More"
+msgstr "Leer más"
+
+#: functions.php:618
+msgid "Find great adventure holidays and activities around the planet."
+msgstr "Encontrá grandes aventuras de vacaciones y actividades alrededor del planeta."
+
+#: functions.php:617
+msgid "Find Your Best Holiday"
+msgstr "Encontrá tus mejores vacaciones"
+
+#: functions.php:460
+msgid "This is the general sidebar layout for whole site."
+msgstr "Este es el diseño general de la barra lateral para todo el sitio."
+
+#: functions.php:459
+msgid "Default Sidebar Layout"
+msgstr "Diseño de barra lateral predeterminado"
+
+#: functions.php:433
+msgid "This is the general sidebar layout for posts & custom post. You can override the sidebar layout for individual post in respective post."
+msgstr "Este es el diseño general de la barra lateral para las publicaciones y entradas personalizadas. Podés modificar la disposición de la barra la lateral de una entrada individual en la misma entrada."
+
+#: functions.php:432
+msgid "Post Sidebar Layout"
+msgstr "Diseño de barra lateral de entrada"
+
+#: functions.php:406
+msgid "This is the general sidebar layout for pages. You can override the sidebar layout for individual page in respective page."
+msgstr "Este es el diseño general de la barra lateral para las páginas. Podés anular el diseño de la barra lateral de una página individual en la propia página."
+
+#: functions.php:405
+msgid "Page Sidebar Layout"
+msgstr "Diseño de barra lateral de página"
+
+#: functions.php:385
+msgid "General Sidebar Layout"
+msgstr "Diseño de la barra lateral general"
+
+#: functions.php:372
+msgid "Choose the layout of the slider for your site."
+msgstr "Elegí el diseño del carrusel para tu sitio."
+
+#: functions.php:351 functions.php:371
+msgid "Slider Layout"
+msgstr "Diseño del carrusel"
+
+#: functions.php:338
+msgid "Choose the layout of the homepage for your site."
+msgstr "Elegí el diseño de la página de inicio de tu sitio."
+
+#: functions.php:337
+msgid "Homepage Layout"
+msgstr "Diseño de la página de inicio"
+
+#: functions.php:317
+msgid "Home Page Layout"
+msgstr "Diseño de la página de inicio"
+
+#: functions.php:304
+msgid "This is the layout for header."
+msgstr "Este es el diseño del encabezado."
+
+#: functions.php:283 functions.php:303
+msgid "Header Layout"
+msgstr "Diseño del encabezado"
+
+#: functions.php:275
+msgid "Layout Settings"
+msgstr "Ajustes de diseño"
+
+#: functions.php:187
+msgid "Change the font size of your site."
+msgstr "Cambiar el tamaño de la fuente del sitio"
+
+#: functions.php:186
+msgid "Font Size"
+msgstr "Tamaño de fuente"
+
+#: functions.php:164
+msgid "Secondary font of the site."
+msgstr "Fuente secundaria del sitio."
+
+#: functions.php:163
+msgid "Secondary Font"
+msgstr "Fuente secundaria"
+
+#: functions.php:142
+msgid "Primary font of the site."
+msgstr "Fuente primaria del sitio."
+
+#: functions.php:141
+msgid "Primary Font"
+msgstr "Tipo de fuente principal"
+
+#: functions.php:121
+msgid "Typography Settings"
+msgstr "Ajustes de la tipografía"
+
+#: functions.php:110
+msgid "Primary color of the theme."
+msgstr "Color principal del tema."
+
+#: functions.php:109
+msgid "Primary Color"
+msgstr "Color principal"
+
+#: functions.php:91
+msgid "Customize Typography, Header Image & Background Image"
+msgstr "Personalizar tipografía, imagen de encabezado e imagen de fondo"
+
+#: functions.php:90
+msgid "Appearance Settings"
+msgstr "Ajustes de apariencia"
+
+#: functions.php:72
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "Enlace a la Documentación: %1$sClic acá.%2$s"
+
+#: functions.php:70
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "Enlace a la Demostración: %1$sClic acá.%2$s"
+
+#: functions.php:57
+msgid "Demo & Documentation"
+msgstr "Demo y Documentación"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
+
+#. Author of the theme
+#: functions.php:1063
+#, gp-priority: low
+msgid "Blossom Themes"
+msgstr "Blossom Themes"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://blossomthemes.com/downloads/yummy-recipe/"
+msgstr "https://blossomthemes.com/downloads/yummy-recipe/"
